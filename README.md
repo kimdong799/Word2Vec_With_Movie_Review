@@ -1,0 +1,2 @@
+# Word2Vec_With_Movie_Review
+Word2Vec_With_Movie_Review(Avengers)
